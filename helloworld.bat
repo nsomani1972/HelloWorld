@@ -1,3 +1,4 @@
+echo "Hello World"
 echo "Sample file with series of commands: "
 echo "Date: "
 date /t

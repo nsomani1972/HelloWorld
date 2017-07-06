@@ -1,3 +1,4 @@
+echo "This file has run automatically at below mentioned time"
 echo "Hello World"
 echo "Sample file with series of commands: "
 echo "Date: "

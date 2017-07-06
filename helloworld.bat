@@ -8,3 +8,4 @@ echo "Directory listing"
 dir /ad
 echo "Network Configuration"
 ipconfig
+echo "End of File."
